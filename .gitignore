@@ -1,0 +1,16 @@
+# Ignore all the things \o\
+*
+
+# Except these few
+!index.html
+!README.md
+!humans.txt
+!404.html
+!crossdomain.xml
+!robots.txt
+!Gruntfile.js
+!favicon.ico
+!package.json
+!img/*
+!js/*
+!css/*
